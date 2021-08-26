@@ -8,7 +8,7 @@ import com.assignment.TicketBooking.Entity.Buses;
 import com.assignment.TicketBooking.Entity.Tickets;
 
 /**
- * Hello world!
+ * Hello world
  *
  */
 public class App 
